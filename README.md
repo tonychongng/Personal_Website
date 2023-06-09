@@ -1,2 +1,6 @@
 # Personal_Website
-My personal website done in AWS
+##Description
+Server: EC2 Instance of AWS
+Domain: Hostinger
+
+Technologies: HTML, CSS, JAVASCRIPT, BOOTSTRAP, AWS
